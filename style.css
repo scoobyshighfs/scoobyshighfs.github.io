@@ -223,6 +223,14 @@ footer p:first-child {
     opacity: 0.6;
 }
 
+.newsletter-block {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 320px;
+    z-index: 1000;
+}
+
 .newsletter-text {
     font-size: 0.8rem;
     letter-spacing: 2px;
