@@ -139,7 +139,7 @@ footer p:first-child {
 /* Content area */
 .content {
     flex: 1;
-    padding: 60px 60px 0 60px;  /* remove bottom padding */
+    padding: 60px 60px 30px 60px;  /* remove bottom padding */
     overflow-y: auto;
 }
 
